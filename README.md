@@ -7,4 +7,8 @@ This is a banking system which manages users account information. A customer of 
 4. customer should receive emails on transactions
 5. the bank manager should be able to download excel of transaction histories for a specific time period for individual/a collection of customers
 
-You can run is django application by simple typing "python manage.py runserver"
+You can run this django application by following the below mentions steps:
+1. Clone this in to an folder
+2. Make an virtualenv
+3. Install requirements.txt file
+4. Run the server using "python manage.py runserver"
